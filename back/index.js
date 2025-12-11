@@ -8,7 +8,7 @@ const action = require('./Routes/Actions');
 app.use(express.json());
 
 app.use(cors({
-    origin: 'https://note-stack-app.vercel.app',
+    origin: '*',
     credentials: true 
 }))
 
