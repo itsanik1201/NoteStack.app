@@ -55,7 +55,7 @@ Group_Project/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Zeref-XXX/NoteStack.git
+https://github.com/itsanik1201/NoteStack.app.git
 cd NoteStack
 ```
 
